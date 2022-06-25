@@ -2,7 +2,7 @@
 // @name         Bandcamp Tap BPM
 // @version      1.0
 // @description  Added a small TAP BPM dialog
-// @author       You
+// @author       rogeraabbccdd
 // @match        https://*.bandcamp.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bandcamp.com
 // @namespace    https://github.com/rogeraabbccdd/Bandcamp-Tap-BPM/
